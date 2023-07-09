@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xiaoyu Gong"
-  avatar           : "assets/images/avatar.png"
+  avatar           : "images/avatar.png"
   bio              : "Love coding, Love AI"
   location         : "Shanghai, China"
   employer         :
