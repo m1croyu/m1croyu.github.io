@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interest includes reinforcement learning and deep learning. I have published 7 papers with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes reinforcement learning and deep learning. I have published 7 papers with total <a href='https://scholar.google.com/citations?user=4nAZQDwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 🔥 News
 - *2023.04*: &nbsp;🎉 My work is accepted by IJCAI 2023.
