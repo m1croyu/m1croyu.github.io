@@ -38,7 +38,7 @@ My research interest includes reinforcement learning and deep learning. I have p
 - *2021.10* The 4th Jilin “Internet+” Innovation and Entrepreneurship Competition - Gold Award
 
 # 📖 Educations
-- *2020.06 - 2023.06*, Master, Jilin University, Changchun.
+- *2020.09 - 2023.06*, Master, Jilin University, Changchun.
 - *2016.09 - 2020.06*, Undergraduate, Jilin University, Changchun.
 
 # 💻 Internships
